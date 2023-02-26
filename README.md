@@ -1,0 +1,2 @@
+# graduateDesign
+广东海洋大学2019级毕业设计：基于vue+springboot的人脸识别宿舍管理系统
